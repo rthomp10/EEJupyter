@@ -1,5 +1,5 @@
 # EEJupyter
-In preparation for my PYNQ board, I'm making an effort to get familiar with Jupyter and Python syntax. This program incorporates common EE formulas, user input, and a pretty output.
+This is an effort to get familiar with Jupyter and Python syntax. This program incorporates common EE formulas, user input, and a pretty output.
 
 ## Initial Functionality
 - Graphs the voltage accross a capacitor over time in an RC circuit starting with a chosen resistor (Ω), capacitor (F), and voltage source (V) value.
